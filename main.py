@@ -9,7 +9,6 @@ from scipy.io import arff
 import pandas as pd
 from scipy.io import arff
 from gng import GrowingNeuralGas
-import plotly
 import plotly.offline as py
 import plotly.graph_objs as go
 from sklearn.preprocessing import StandardScaler
